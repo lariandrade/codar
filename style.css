@@ -10,14 +10,12 @@
     font-size: 18px;
 }
 
-ul{
+ul, a{
     list-style: none;
-}
-
-a{
     text-decoration: none;
     color: #000000
 }
+
 
 /* MENU */
 
